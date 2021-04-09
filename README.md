@@ -1,5 +1,5 @@
 # pi_approximation_julia
-A method to approximate Pi written in Julia (Serial and parallel executions)
+A method (using uniform random distribution) to approximate pi written in Julia (Serial and parallel executions)
 
 To execute the code, follow these steps below:
 
